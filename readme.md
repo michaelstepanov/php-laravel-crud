@@ -20,6 +20,7 @@ The purpose of the repository is to provide you some information about my skills
 
 	cd FOLDER_NAME
     git clone https://github.com/michaelstepanov/php-laravel-crud.git
+    cd php-laravel-crud
     composer install
     // Rename .env.example to .env on the step
     php artisan key:generate
